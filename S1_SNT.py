@@ -7,7 +7,7 @@
 # 
 # ### Langage : introduction à Python
 
-# 1. Mon premier programme :
+
 # 
 # - une entrée : ton prénom
 # - une sortie : un message de bienvenue personnalisé
